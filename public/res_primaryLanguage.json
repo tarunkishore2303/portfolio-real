@@ -53,13 +53,28 @@
 					"name": "JavaScript"
 				}
 			]
+		},
+		{
+			"title": "Ping pong with python",
+			"startDate": "2020",
+			"description": "A simple pingpong game with python.",
+			"images": [
+				"https://d33wubrfki0l68.cloudfront.net/5d39184f006d5e5aef1fecfffe9dc584315f5182/1e504/images/tutorials/unity-pong/classic_pong_screenshot.png"
+			],
+			"url": "/",
+			"technologies": [
+				{
+					"class": "devicon-python-plain",
+					"name": "Python"
+				}
+			]
 		}
 	],
 	"experience": [
 		{
 			"company": "Buyonz Ventures",
 			"title": "Full stack devleoper",
-			"years": "10.2020 - 12.2020",
+			"years": "Oct 2020 - Dec 2020",
 			"mainTech": ["React"],
 			"technologies": [
 				"React ",
@@ -71,7 +86,7 @@
 		{
 			"company": "Rangaa Dental Clinic",
 			"title": "Intern",
-			"years": "03.2021 - 06.2021",
+			"years": "Mar 2021 - Jun 2021",
 			"mainTech": ["React"],
 			"technologies": [
 				"React",
